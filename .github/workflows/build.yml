@@ -48,15 +48,3 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: '12.x'
-    - name: Deploy Datasette using Zeit Now
-      env:
-        NOW_TOKEN: ${{ secrets.NOW_TOKEN }}
-      run: |-
-        datasette publish now2 til.db \
-          --token $NOW_TOKEN \
-          --project simon-til \
-          --metadata metadata.json \
-          --install py-gfm \
-          --install datasette-render-markdown \
-          --install datasette-template-sql \
-          --template-dir templates
