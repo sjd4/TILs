@@ -1,7 +1,7 @@
 {
-    "title": "Today I Learned",
-    "about": "simonw/til",
-    "about_url": "https://github.com/simonw/til",
+    "title": "TILs",
+    "about": "sjd4/TILs",
+    "about_url": "https://github.com/sjd4/TILs",
     "databases": {
         "til": {
             "queries": {
