@@ -10,4 +10,8 @@ My Today I Learned snippets. Inspired by [jbranchaud/til](https://github.com/jbr
 ## finance
 
 * [**How can we download fundamentals data with Python?**](https://github.com/simonw/til/blob/master/finance/how-to-download-fundamentals-data-with-python.md) - 2020-05-20
+
+## covid-19
+
+* [Contact tracing with a Raspberry Pi Zero-W](https://github.com/simonw/til/blob/master/covid-19/contact-tracing-with-a-raspberry-pi-zero-w.md) - 2020-05-20
 <!-- index ends -->
