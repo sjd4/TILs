@@ -6,4 +6,8 @@ My Today I Learned snippets. Inspired by [jbranchaud/til](https://github.com/jbr
 ## sqlite
 
 * [Lag window function in SQLite](https://github.com/simonw/til/blob/master/sqlite/lag-window-function.md) - 2020-04-20
+
+## finance
+
+* [**How can we download fundamentals data with Python?**](https://github.com/simonw/til/blob/master/finance/how-to-download-fundamentals-data-with-python.md) - 2020-05-20
 <!-- index ends -->
