@@ -8,19 +8,13 @@ In this post we will explore how to download fundamentals data with Python. We'l
 
 Now, let's import the *stock_info* module from **yahoo_fin**. This will provide us with the functionality we need to scrape fundamentals data from Yahoo Finance. We'll also import the **pandas** package as we'll be using that later to work with data frames.
 
-|
-
-1
-
-2
-
- |
-
+```
 `import` `yahoo_fin.stock_info as si`
+```
 
+```
 `import` `pandas as pd`
-
- |
+```
 
 Next, we'll dive into getting common company metrics, starting with P/E ratios.
 
